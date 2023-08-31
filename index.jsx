@@ -23,6 +23,7 @@ function Item(props) {
 function App() {
   return (
     <Box width="100%" height="100%" flexDirection="column">
+      <Text>Press Tab to focus next item. Press q to exit.</Text>
       <Item label="Item 1" />
       <Item label="Item 2" />
       <Item label="Item 3" />

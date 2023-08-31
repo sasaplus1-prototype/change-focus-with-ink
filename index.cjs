@@ -48,7 +48,7 @@ function App() {
     width: "100%",
     height: "100%",
     flexDirection: "column"
-  }, /*#__PURE__*/React__default["default"].createElement(Item, {
+  }, /*#__PURE__*/React__default["default"].createElement(ink.Text, null, "Press Tab to focus next item. Press q to exit."), /*#__PURE__*/React__default["default"].createElement(Item, {
     label: "Item 1"
   }), /*#__PURE__*/React__default["default"].createElement(Item, {
     label: "Item 2"
